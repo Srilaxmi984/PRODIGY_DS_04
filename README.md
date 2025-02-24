@@ -33,6 +33,7 @@ Entity-based sentiment distribution
 
 Word clouds for positive and negative sentiments
 
+![Logo](https://github.com/Srilaxmi984/PRODIGY_DS_04/blob/main/"C:\Users\srila\OneDrive\Desktop\PROJECTS\PRODIGY_DS_01\Figure_1.png")
 
 ## Installation  
 ### Prerequisites  
@@ -41,4 +42,3 @@ Ensure you have Python installed along with the required libraries:
 ```bash
 
 pip install pandas matplotlib seaborn wordcloud
-![Logo](https://github.com/Srilaxmi984/PRODIGY_DS_04/blob/main/"C:\Users\srila\OneDrive\Desktop\PROJECTS\PRODIGY_DS_01\Figure_1.png")
