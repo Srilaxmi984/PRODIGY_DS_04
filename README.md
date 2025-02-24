@@ -12,7 +12,8 @@ This project analyzes sentiment from a Twitter dataset using Python, Pandas, Mat
 - *Data Cleaning:* Removes missing values and saves a processed dataset.
 - *Sentiment Distribution:* A bar chart shows the distribution of sentiments.
 - *Entity-Based Sentiment:* Visualizes sentiment for the top 10 most mentioned entities.
-- *Word Clouds:* Generates word clouds for positive and negative sentiments.  
+- *Word Clouds:* Generates word clouds for positive and negative sentiments.
+- ![Logo](https://github.com/Srilaxmi984/PRODIGY_DS_04/blob/main/"C:\Users\srila\OneDrive\Desktop\PROJECTS\PRODIGY_DS_01\Figure_1.png")
 
 ## Dataset  
 
